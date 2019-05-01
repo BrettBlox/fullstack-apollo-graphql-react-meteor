@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Accounts } from "meteor/accounts-base"
+import { Accounts } from 'meteor/accounts-base'
 
 export default class RegisterForm extends Component {
   render() {
